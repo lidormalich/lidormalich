@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lidormalich" alt="lidormalich" /></a> </p>
 
-- 🌱 I’m currently learning **FullStack Devoloper**
+- 🌱 I’m currently learning **FullStack Developer**
 
 - 📫 How to reach me **lidormalich@gmail.com**
 
