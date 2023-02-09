@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lidor malich</h1>
+<h1 align="center">Hi 👋, I'm Lidor Maliach</h1>
 <h3 align="center">A passionate frontend developer from Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lidormalich&label=Profile%20views&color=0e75b6&style=flat" alt="lidormalich" /> </p>
